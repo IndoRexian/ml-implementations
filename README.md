@@ -11,7 +11,6 @@ A collection of different ML Algorithms implemented by me.
     - Dataset used- ["Salary Dataset: Simple linear regression"](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)
     - View this [notebook](/notebooks/linearregression.ipynb) for the implementation.
     - Visualisation
-  
     ![image](/assets/1_linearregression.gif)
 
 ## Getting Started
